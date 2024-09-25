@@ -1,4 +1,4 @@
-# Hi there, I'm LtWashi/ThatGuyCy (or Harvey!) 👋
+# Hi there, I'm ThatGuyCy (or Harvey!) 👋
 
 ## 🚀 About Me
 I'm a passionate developer with a love for learning new technologies and building projects that make a difference. I specialize in Arduino/ESP32/IOT Development and Minecraft Plugin Development and am always eager to dive into new challenges.
